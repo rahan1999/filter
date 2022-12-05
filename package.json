@@ -1,0 +1,15 @@
+{
+  "name": "filter-",
+  "version": "1.0.0",
+  "description": "Filter program that accept two lists filed with numbers provided by the user. The first array need to be filtered by the second and displayed after proces. ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Filter"
+  },
+  "author": "Paweł Podolak",
+  "license": "ISC"
+}
